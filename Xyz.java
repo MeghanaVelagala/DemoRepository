@@ -8,4 +8,7 @@ Public class Xyz
 	public void setX()
 	{
 	}
+	public String str()
+	{
+	}
 }
